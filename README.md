@@ -3,6 +3,6 @@ Hi, I'm Vivi, I'm currently studying Computer Science and dabbling into the worl
 
 Some of my pinned projects include .files for my Linux system and some silly scripts I wrote for fun back then, feel free to try anything out. I make software mostly for myself but I appreciate when people take a peek at it.
 
-**Skills**: nothing much aside from basic Python, C, some bits of Lua and I learnt a tiny tiny bit of Pascal in university so far.
+**Skills**: nothing much aside from basic Python.
 
 More to this profile coming *eventually*.
